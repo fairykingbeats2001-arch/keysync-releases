@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "channel": "stable",
+  "url": "https://github.com/fairykingbeats2001-arch/keysync-releases/releases/download/v0.2.0/KeySync-0.2.0.zip",
+  "sha256": "43cceb996bf0a0d8900e96b1a16d82ab61a29ba36c484e6499f23e8165791424",
+  "size": 69158800,
+  "notes": "Primera versi\u00f3n con actualizaciones autom\u00e1ticas: desde ahora KeySync te avisa de las versiones nuevas y las instala con un clic.",
+  "published_at": "2026-10-12T20:54:34Z",
+  "signature": "EOPne3f7uNQ2kQLzT_2GMbyAUNZ9GilXlu3cJZu450lTABnJDit_WrSlXDoUDiH_JLj9ea39ZIw7PsY5JkDnCg"
+}
